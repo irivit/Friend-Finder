@@ -1,0 +1,25 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Friend finder based in a survey",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irivit/Friend-Finder.git"
+  },
+  "keywords": [
+    "Frien",
+    "finder",
+    "date"
+  ],
+  "author": "Irina Machado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irivit/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/irivit/Friend-Finder#readme"
+}
